@@ -99,6 +99,7 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
+We observed that led sparked bright  when the resistance was 1 kilo ohm and the led sparked less at 6 kilo ohm and got damaged at 0 kilo ohm.  Hence we observed that when the resistance of the resistor was decresed the current increases but when the resistance was increased  the current decreased.
 
 
 ```
